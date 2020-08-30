@@ -15,5 +15,5 @@ import "firebase/firestore";
 export class AppComponent {
   title = 'success-o-meter';
 
-  firebase.initializeApp(firebaseConfig);
+  // firebase.initializeApp(firebaseConfig);
 }
